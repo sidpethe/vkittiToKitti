@@ -11,7 +11,7 @@ To use these scripts, clone the repository into the downloaded *vkitti_1.3.1_sce
 1. Move the *Readme.txt* file provided by v-kitti out of the folder. 
 2. Run the script using:
 
-'''
+```
 python vkitti_to_kitti.py 
 ```
 
