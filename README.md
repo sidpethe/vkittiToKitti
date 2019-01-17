@@ -15,6 +15,12 @@ To use these scripts, clone the repository into the downloaded *vkitti_1.3.1_sce
 python vkitti_to_kitti.py 
 ```
 
+## Related Repositories
+
+This section contains links to some of the other repositories that may be useful in implementing Mask RCNN for use with KITTI and V-KITTI datasets.
+1. [detectronRoot](https://github.com/sidpethe/detectronRoot.git) : Scripts for running Mask RCNN with detectron. 
+2. [Detectron](https://github.com/sidpethe/Detectron.git): Forked Detectron implementation for use with KITTI and V-KITTI datasets. 
+
 ## Author
 Sid Pethe has finished his Masters in Engineering (Mechatronics) from the Australian National University. This script was developed during his Masters Research Project with the Australian Centre for Robotic Vision. 
 
